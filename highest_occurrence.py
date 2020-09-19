@@ -13,7 +13,7 @@ def highestOccurrence(arr):
                 dupes.append(x)
             seen[x] += 1
 
-    # Returning the duplicates    
+    # Returning the duplicates
     return dupes
 
 
